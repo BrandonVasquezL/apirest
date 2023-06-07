@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-y*3go601y-2290kw%lqzj=tx_2w_!6nk+!7h1p(p!&(7ccskq6
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['apirest-production-3b72.up.railway.app', 'www.example.com']
 
 
 # Application definition
