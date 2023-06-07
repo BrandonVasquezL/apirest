@@ -58,12 +58,12 @@ ROOT_URLCONF = 'rtp_back.urls'
 
 CORS_ORIGIN_WHITELIST = (
     'http://127.0.0.1:5500',
-    'http://real-time-parking.x10.mx'.
+    'http://real-time-parking.x10.mx',
     'http://real-time-parking.000webhostapp.com'
 )
 CORS_ALLOWED_ORIGINS = [
     'http://127.0.0.1:5500',
-    'http://real-time-parking.x10.mx'.
+    'http://real-time-parking.x10.mx',
     'http://real-time-parking.000webhostapp.com'
 ]
 TEMPLATES = [
